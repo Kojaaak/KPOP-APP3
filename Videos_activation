@@ -1,1 +1,37 @@
+{
+  "video_button": {
+    "active": true,
+    "label": "KPOP Demon Hunters"
+  },
+  "videos": [
+    {
+      "title": "Kpop Demon Hunters 'Golden'",
+      "videoId": "yebNIHKAC4A"
+    },
+    {
+      "title": "aespa 'Dirty Work' MV",
+      "videoId": "M2WTUoy4y6E"
+    },
+    {
+      "title": "Kpop Demon Hunters 'Takedown'",
+      "videoId": "l8Dr7vzMSVE"
+    },
+    {
+      "title": "Demon Hunters 'How It's Done'",
+      "videoId": "QGsevnbItdU"
+    },
+    {
+      "title": "Kpop Demon Hunters 'Soda pop'",
+      "videoId": "983bBbJx0Mk"
+    },
+    {
+      "title": "Demon Hunters - GOLDEN",
+      "videoId": "yebNIHKAC4A"
+    },
+    {
+      "title": "BLACKPINK - (JUMP)’ M/V",
+      "videoId": "CgCVZdcKcqY"
+    }
+  ]
+}
 
