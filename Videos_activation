@@ -1,6 +1,6 @@
 {
   "video_button": {
-    "active": true,
+    "active": false,
     "label": "KPOP Demon Hunters"
   },
   "videos": [
@@ -13,6 +13,10 @@
       "videoId": "M2WTUoy4y6E"
     },
     {
+      "title": "Kpop Demon Hunters 'Takedown'",
+      "videoId": "l8Dr7vzMSVE"
+    },
+  {
       "title": "Kpop Demon Hunters 'Takedown'",
       "videoId": "l8Dr7vzMSVE"
     }
