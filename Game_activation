@@ -1,0 +1,24 @@
+{
+  "video_button": {
+    "active": true,
+    "label": "KPOP Videos"
+  },
+  "outfit_button": {
+    "active": true,
+    "label": "Guess Outfit"
+  },
+  "trace_button": {
+    "active": true,
+    "label": "Trace Idol"
+  },
+  "ai_chat_button": {
+    "active": true,
+    "label": "AI Chat"
+  },
+  "promoPanel": {
+    "isActive": 1,
+    "appName": "KPOP Dance Battle",
+    "iconPath": "https://yourcdn.com/icons/dance.png",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.example.kpopdance"
+  }
+}
