@@ -1,14 +1,14 @@
 {
   "outfit_button": {
-    "active": true,
+    "active": false,
     "label": "Guess Outfit"
   },
   "trace_button": {
-    "active": true,
+    "active": false,
     "label": "Trace Idol"
   },
   "ai_chat_button": {
-    "active": true,
+    "active": false,
     "label": "AI Chat"
   },
   "promoPanel": {
