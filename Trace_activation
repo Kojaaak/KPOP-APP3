@@ -1,6 +1,6 @@
 {
   "trace_button": {
-    "active": true,
+    "active": false,
     "label": "Trace Idol"
   }
 }
