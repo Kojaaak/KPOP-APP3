@@ -1,8 +1,4 @@
 {
-  "video_button": {
-    "active": true,
-    "label": "KPOP Videos"
-  },
   "outfit_button": {
     "active": true,
     "label": "Guess Outfit"
@@ -17,8 +13,8 @@
   },
   "promoPanel": {
     "isActive": 1,
-    "iconPath": "https://raw.githubusercontent.com/Kojaaak/KPOP-APP3/refs/heads/main/Screenshot%202025-08-03%20at%2022.52.54.png",
-    "appName": "K-pop Demon Hunters",
-    "gameLink": "https://apps.apple.com/us/app/kpop-idols-draw-play/id6749509762"
+    "appName": "KPOP Dance Battle",
+    "iconPath": "https://yourcdn.com/icons/dance.png",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.example.kpopdance"
   }
 }
