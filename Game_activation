@@ -12,7 +12,7 @@
     "label": "AI Chat"
   },
   "persona_button": {
-    "active": false,
+    "active": true,
     "label": "Create Your Idol Persona"
   },
   "promoPanel": {
