@@ -8,7 +8,7 @@
     "label": "Trace Idol"
   },
   "ai_chat_button": {
-    "active": false,
+    "active": true,
     "label": "AI Chat"
   },
   "persona_button": {
