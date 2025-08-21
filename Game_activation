@@ -4,15 +4,15 @@
     "label": "Guess Outfit"
   },
   "trace_button": {
-    "active": true,
+    "active": false,
     "label": "Trace Idol"
   },
   "ai_chat_button": {
-    "active": true,
+    "active": false,
     "label": "AI Chat"
   },
   "persona_button": {
-    "active": true,
+    "active": false,
     "label": "Create Your Idol Persona"
   },
   "promoPanel": {
