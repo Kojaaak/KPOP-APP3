@@ -1,6 +1,6 @@
 {
   "outfit_button": {
-    "active": true,
+    "active": false,
     "label": "Guess Outfit"
   },
   "trace_button": {
@@ -10,6 +10,10 @@
   "ai_chat_button": {
     "active": true,
     "label": "AI Chat"
+  },
+  "persona_button": {
+    "active": true,
+    "label": "Create Your Idol Persona"
   },
   "promoPanel": {
     "isActive": 0,
