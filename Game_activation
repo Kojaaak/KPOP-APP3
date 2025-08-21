@@ -4,7 +4,7 @@
     "label": "Guess Outfit"
   },
   "trace_button": {
-    "active": false,
+    "active": true,
     "label": "Trace Idol"
   },
   "ai_chat_button": {
